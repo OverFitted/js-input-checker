@@ -15,5 +15,5 @@ Also, to debug you can run
 npm run dev
 ```
 
-## Checker
+## Usage
 To check input type simply click on big bordered rectangle and check console (F12)
