@@ -4,7 +4,7 @@
   "description": "Simple node js input type checker",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js",
+    "prod": "node index.js",
     "dev": "nodemon index.js"
   },
   "repository": {
