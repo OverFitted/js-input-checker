@@ -12,8 +12,7 @@
 .history/
 .idea/
 .vscode/
-routes/test.json
-routes/test2.vega
+package-lock.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
