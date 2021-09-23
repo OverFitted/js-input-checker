@@ -1,0 +1,9 @@
+<div class="that-div" id="that-div"></div>
+
+<script>
+    this.document.getElementById("that-div").addEventListener("pointerdown", (event) => {
+        console.log(event.pointerId);
+        console.log(event.pointerType);
+        console.log(event.pressure);
+    }, true);
+</script>
